@@ -1,6 +1,6 @@
 ---
 name: "Hacker Sheet について"
-slug: "sdhyvta"
+slug: "about"
 ---
 
 # Hacker Sheet について
