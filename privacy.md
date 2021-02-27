@@ -1,6 +1,6 @@
 ---
 name: "プライバシーポリシー"
-slug: "elcssku"
+slug: "privacy"
 ---
 
 # プライバシーポリシー
