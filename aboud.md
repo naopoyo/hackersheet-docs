@@ -3,7 +3,7 @@ name: "Hacker Sheetについて"
 slug: "about"
 ---
 
-# Hacker Sheet について
+# Hacker Sheetについて
 
 GitHubでのメモ管理を便利にするためのサービスです。
 
