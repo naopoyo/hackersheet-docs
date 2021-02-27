@@ -1,6 +1,6 @@
 ---
 name: "利用規約"
-slug: "kpzwrsv"
+slug: "terms"
 ---
 
 # 利用規約
