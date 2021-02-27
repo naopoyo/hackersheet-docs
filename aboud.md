@@ -1,5 +1,5 @@
 ---
-name: "Hacker Sheet について"
+name: "Hacker Sheetについて"
 slug: "about"
 ---
 
