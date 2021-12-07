@@ -11,7 +11,7 @@ Hacker Sheetをつかうと、より手軽にGitHubでのメモ管理ができ�
 
 ***
 
-## GitHubでのメモ管理とは❓
+## ❓ GitHubでのメモ管理とは
 
 テキストファイルをGitHubのリポジトリに保存しておくことで、ブラウザでの閲覧が可能になり、編集の履歴も残る、便利なメモ管理方法のひとつです。
 
@@ -21,19 +21,19 @@ Vim、Visual Stadio Codeなどの使い慣れたエディタで、Markdown形式
 
 ***
 
-## サービスの特徴✨
+## ✨ サービスの特徴
 
-### シンプルな個別ページ📄
+### 📄 シンプルな個別ページ
 
 このページもGitHubで管理しているので、[個別ページ](https://github.com/naopoyo/hackersheet-docs/blob/main/aboud.md)を見てみましょう。
 
 メモを見るという点では不要なメニューなどがあり、ごちゃごちゃしていますが、Hacker Sheetでは、このページのようにシンプルな個別ページとなるため、内容だけに集中できます。
 
-### ダグで整理🏷
+### 🏷 ダグで整理
 
 ファイルの先頭にFront Matterで指定しておくことで、Hacker Sheet上でタグによる検索ができるようになります。
 
-### 簡単に修正✏️
+### ✏️ 簡単に修正
 
 Hacker Sheetに簡易なMarkdownエディタが備わっており、編集するとGitHubへプッシュされるため、ファイルを保存してからadd、commit、pushといった操作が不要になります。
 
@@ -44,4 +44,3 @@ Hacker Sheetに簡易なMarkdownエディタが備わっており、編集する
 ## サンプル
 
 Hacker Sheetで[個人開発のためのTips・チートシート集](https://hackersheet.com/naopoyo)を作っているので、ご覧ください。
-
