@@ -109,4 +109,4 @@ Hacker Sheet運営事務局（以下「本サービス提供者」といいま�
 
 本ポリシーに関するお問い合わせは，下記の窓口までお願いいたします。
 
-メールアドレス: info\$hackersheet.com
+Googleフォーム: https://forms.gle/Qr6VhgVsJ3z6jnYR9
