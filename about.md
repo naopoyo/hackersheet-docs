@@ -25,7 +25,7 @@ Vim、Visual Stadio Codeなどの使い慣れたエディタで、Markdown形式
 
 ### 📄 シンプルな個別ページ
 
-このページもGitHubで管理しているので、[個別ページ](https://github.com/naopoyo/hackersheet-docs/blob/main/aboud.md)を見てみましょう。
+このページもGitHubで管理しているので、[個別ページ](https://github.com/naopoyo/hackersheet-docs/blob/main/about.md)を見てみましょう。
 
 メモを見るという点では不要なメニューなどがあり、ごちゃごちゃしていますが、Hacker Sheetでは、このページのようにシンプルな個別ページとなるため、内容だけに集中できます。
 
