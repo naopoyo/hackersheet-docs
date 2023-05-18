@@ -41,6 +41,6 @@ Hacker Sheetに簡易なMarkdownエディタが備わっており、編集する
 
 ***
 
-## サンプル
+## デモ
 
 Hacker Sheetで[個人開発のためのTips・チートシート集](https://hackersheet.com/naopoyo)を作っているので、ご覧ください。
