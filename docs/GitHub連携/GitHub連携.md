@@ -1,7 +1,7 @@
 ---
 name: "Hacker SheetをGitHubと連携する"
 slug: "connect-github-app"
-tags: ["docs"]
+tags: ["docs", "GitHub連携"]
 ---
 
 # Hacker SheetをGitHubと連携する
