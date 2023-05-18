@@ -5,9 +5,11 @@ slug: "about"
 
 # Hacker Sheetについて
 
-***
-
 Hacker Sheetをつかうと、より手軽にGitHubでのメモ管理ができるようになります。
+
+どのようなサービスか見てみたい方は、デモとして[個人開発のためのTips・チートシート集](https://hackersheet.com/naopoyo)を作成しているのでご覧ください。
+
+[Hacker Sheetの使い方](/docs/index.md)で簡単な使い方を見ることもできます。
 
 ***
 
@@ -38,9 +40,3 @@ Vim、Visual Stadio Codeなどの使い慣れたエディタで、Markdown形式
 Hacker Sheetに簡易なMarkdownエディタが備わっており、編集するとGitHubへプッシュされるため、ファイルを保存してからadd、commit、pushといった操作が不要になります。
 
 ちょっとした修正だけなら、スマホから行えます。
-
-***
-
-## デモ
-
-Hacker Sheetで[個人開発のためのTips・チートシート集](https://hackersheet.com/naopoyo)を作っているので、ご覧ください。
