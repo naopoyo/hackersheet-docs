@@ -29,7 +29,9 @@ GitHub Appのインストールをクリックすると、github.com に移動�
 
 連携したいリポジトリを選択して「Install」をクリックします。
 
-複数のリポジトリを選択することも可能です。
+1. Only select repositories を選択
+2. Select repositoriesからリポジトリを選択  
+   **(複数のリポジトリを選択することも可能です。)**
 
 ![03](/docs/GitHub連携/GitHub連携03.jpg)
 
