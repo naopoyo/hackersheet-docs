@@ -9,7 +9,7 @@ Hacker Sheetをつかうと、より手軽にGitHubでのメモ管理ができ�
 
 どのようなサービスか見てみたい方は、デモとして[個人開発のためのTips・チートシート集](https://hackersheet.com/naopoyo)を作成しているのでご覧ください。
 
-[Hacker Sheetの使い方](/docs/index.md)で簡単な使い方を見ることもできます。
+使い方を知りたい方は、[Hacker Sheetの使い方](/docs/index.md)をご覧ください。
 
 ***
 
