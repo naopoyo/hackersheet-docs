@@ -17,13 +17,13 @@ GitHub Appをインストールし、Hacker Sheetのアカウントに紐づけ�
 
 ホーム画面右上のアイコンから設定画面に移動します。
 
-![](/docs/GitHub連携/GitHub連携01.jpg)
+![](GitHub連携01.jpg)
 
 ## 2. GitHub Appをインストールする
 
 GitHub Appのインストールをクリックすると、github.com に移動します。
 
-![](/docs/GitHub連携/GitHub連携02.jpg)
+![](GitHub連携02.jpg)
 
 ## 3. 連携するリポジトリを選択
 
@@ -33,28 +33,28 @@ GitHub Appのインストールをクリックすると、github.com に移動�
 2. Select repositoriesからリポジトリを選択  
    **(複数のリポジトリを選択することも可能です。)**
 
-![](/docs/GitHub連携/GitHub連携03.jpg)
+![](GitHub連携03.jpg)
 
 ## 4. GitHub Appインストール完了
 
 インストール済のGitHub Appsに前の手順で選択したリポジトリが表示されていたらインストール完了です。
 
-![](/docs/GitHub連携/GitHub連携04.jpg)
+![](GitHub連携04.jpg)
 
 ## 5. ワークスペースに連携するリポジトリを設定する
 
 ワークスペースの設定画面からGitHubリポジトリ設定画面に移動します。
 
-![](/docs/GitHub連携/GitHub連携05.jpg)
+![](GitHub連携05.jpg)
 
 ## 6. 連携したいリポジトリを選択
 
 ワークスペースに連携するリポジトリを選択して「設定」をクリックします。
 
-![](/docs/GitHub連携/GitHub連携06.jpg)
+![](GitHub連携06.jpg)
 
 ## 7. リポジトリの設定完了
 
 下記画像のように連携中のリポジトリが表示されれば完了です🎉
 
-![](/docs/GitHub連携/GitHub連携07.jpg)
+![](GitHub連携07.jpg)
