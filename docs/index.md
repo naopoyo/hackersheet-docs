@@ -1,7 +1,7 @@
 ---
 name: "Hacker Sheetの使い方"
 slug: "how-to-use"
-tags: ["docs"]
+tags: ["docs", "index"]
 ---
 
 # Hacker Sheetの使い方
