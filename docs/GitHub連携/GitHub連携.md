@@ -4,6 +4,8 @@ slug: "connect-github-app"
 tags: ["docs", "GitHub連携"]
 ---
 
+[⬅️ 使い方トップに戻る](../index.md)
+
 # Hacker SheetをGitHubと連携する
 
 GitHub Appをインストールし、Hacker Sheetのアカウントに紐づけることで、GitHubリポジトリとワークスペースを連携して、シートの作成や画像ファイルのアップロードができるようになります。
