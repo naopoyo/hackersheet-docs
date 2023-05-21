@@ -1,6 +1,7 @@
 ---
 name: "Hacker Sheetについて"
 slug: "about"
+emoji: "🐯"
 ---
 
 # Hacker Sheetについて
