@@ -1,6 +1,7 @@
 ---
 name: "Hacker Sheetの使い方"
 slug: "how-to-use"
+emoji: "❓"
 tags: ["docs", "index"]
 ---
 
