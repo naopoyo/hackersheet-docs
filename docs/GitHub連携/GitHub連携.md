@@ -1,6 +1,7 @@
 ---
 name: "Hacker SheetをGitHubと連携する"
 slug: "connect-github-app"
+emoji: "🐙"
 tags: ["docs", "GitHub連携"]
 ---
 
